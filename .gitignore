@@ -1,0 +1,10 @@
+# This public repo is a project overview only. Never commit app code or datasets.
+*.js
+*.json
+*.csv
+*.geojson
+data*/
+site/
+pipeline/
+_backups/
+.env
